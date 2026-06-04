@@ -10,7 +10,7 @@
 
 *Building production-ready AI — from RAG chatbots to end-to-end MLOps pipelines deployed on GCP.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaykumar-mishra-791a38300)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra03abhaykumar@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MishraAbhay03)
@@ -50,7 +50,7 @@ abhay = {
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       </p>
-      <a href="https://github.com/MishraAbhay03/End-to-end-Mlops-AQI-Prediction-Sysytem">
+      <a href="https://github.com/MishraAbhay03/aqi-mlops-pipeline">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -63,7 +63,7 @@ abhay = {
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
         <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
       </p>
-      <a href="https://github.com/MishraAbhay03">
+      <a href="https://github.com/MishraAbhay03/llm-rag-chatbot">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -181,7 +181,7 @@ abhay = {
 
 *I'm actively looking for full-time roles in AI/ML Engineering & Data Science.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaykumar-mishra-791a38300)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra03abhaykumar@gmail.com)
 
 ---
