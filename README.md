@@ -3,7 +3,7 @@
 <!-- Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Abhaykumar+Mishra;AI+%2F+ML+Engineer;Building+production-ready+AI+systems" alt="Typing header" />
 
-<img src="https://avatars.githubusercontent.com/u/138906026?v=4" width="130" height="130" alt="Profile picture" style="border-radius:50%; border: 3px solid #00d4ff;" />
+
 
 ### Abhaykumar Mishra
 **AI / ML Engineer | MLOps | LLMs | Computer Vision**
